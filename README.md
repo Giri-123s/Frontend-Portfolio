@@ -11,8 +11,8 @@ This is a collection of my selected frontend projects with live demos and source
 - Responsive UI from Figma design  
 - Global state management with Redux  
 - REST API integration for authentication  
-🔗 **Live Demo:** [studynotion-frontend.vercel.app](https://studynotion-frontend.vercel.app/)  
-💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/StudyNotion-Frontend)
+🔗 **Live Demo:** [studynotion-frontend.vercel.app](https://studynotion-frontend.vercel.app)  
+💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/ED-TECH)
 
 ---
 
@@ -22,7 +22,7 @@ This is a collection of my selected frontend projects with live demos and source
 - Integrated public crypto APIs for live market data  
 - Interactive charts for price trends  
 - Responsive design for mobile and desktop  
-💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/CryptoDashboard)  
+💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/crypto-dashboard)  
 🔗 **Live Demo:** [https://crypto-dashboard-qc7oldrg7-giri-123s-projects.vercel.app]
 
 ---
@@ -33,7 +33,7 @@ This is a collection of my selected frontend projects with live demos and source
 - Server-side rendering with Next.js for faster load times  
 - Integrated REST APIs for artwork and event data  
 - Fully mobile responsive design  
-💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/Artistly)  
+💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/artist)  
 🔗 **Live Demo:** [https://eventful-artistly-giri-123s-giri-123s-projects.vercel.app]
 
 ---
