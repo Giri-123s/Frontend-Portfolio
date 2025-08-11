@@ -1,6 +1,6 @@
 # Frontend Development Portfolio – Shivam Kumar Giri
 
-Hi, I’m **Shivam Kumar Giri**, a Frontend-Focused Full Stack Developer skilled in **Next.js, React, Tailwind CSS, Redux, and REST API integration**.  
+Hi, I am **Shivam Kumar Giri**, a Frontend-Focused Full Stack Developer skilled in **Next.js, React, Tailwind CSS, Redux, and REST API integration**.  
 This is a collection of my selected frontend projects with live demos and source code.
 
 ---
@@ -16,22 +16,25 @@ This is a collection of my selected frontend projects with live demos and source
 
 ---
 
-## 📌 2. RoundTable Feedback System
-**Tech Stack:** Next.js, Spring Boot, PostgreSQL, WebSockets  
-**Description:** Real-time feedback platform for team discussions.  
-- Server-side rendering for faster load times  
-- Real-time updates using WebSockets  
-- Data analytics dashboard  
-💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/Frontend-RoundTableFeedback)
+## 📌 2. CryptoDashboard
+**Tech Stack:** React, Tailwind CSS, REST API  
+**Description:** Real-time cryptocurrency price tracking dashboard.  
+- Integrated public crypto APIs for live market data  
+- Interactive charts for price trends  
+- Responsive design for mobile and desktop  
+💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/CryptoDashboard)  
+🔗 **Live Demo:** [https://crypto-dashboard-qc7oldrg7-giri-123s-projects.vercel.app]
 
 ---
 
-## 📌 3. Facial Expression Recognition
-**Tech Stack:** Python, Keras, OpenCV  
-**Description:** Detects and classifies facial expressions in real time.  
-- CNN trained on FER2013 dataset (85% accuracy)  
-- Live webcam feed integration  
-💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/Facial-Expression-Recognition)
+## 📌 3. Artistly
+**Tech Stack:** Next.js, Tailwind CSS, REST API  
+**Description:** Creative artist portfolio platform showcasing artwork and event details.  
+- Server-side rendering with Next.js for faster load times  
+- Integrated REST APIs for artwork and event data  
+- Fully mobile responsive design  
+💻 **Code:** [GitHub Repo](https://github.com/Giri-123s/Artistly)  
+🔗 **Live Demo:** [https://eventful-artistly-giri-123s-giri-123s-projects.vercel.app]
 
 ---
 
